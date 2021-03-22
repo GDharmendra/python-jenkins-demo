@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
 
     print_hi('Welcome to Jenkins-docker-kuberetes World')
+    print('Hello World')
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# See PyCharm help at https://www.jetbrains.com/help/pycharm/s
